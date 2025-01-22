@@ -1,4 +1,5 @@
 #!/usr/bin/env node
-import playEvenGame from '../src/evenGame.js';
+import playGame from '../src/index.js';
+import evenGame from '../src/games/evenGame.js';
 
-playEvenGame();
+playGame(evenGame);
