@@ -7,3 +7,6 @@
 
 ### Asciinema of running the "calculator"-game (package should be installed by the previous step)
 [![asciicast](https://asciinema.org/a/EhNRK1WKBDUZNI2xwF2NhiJBC.svg)](https://asciinema.org/a/EhNRK1WKBDUZNI2xwF2NhiJBC)
+
+### Asciinema of running the "gcd"-game (package should be installed by the first step)
+[![asciicast](https://asciinema.org/a/6CHVOSNKND6e0EEpcsDsN5D5Q.svg)](https://asciinema.org/a/6CHVOSNKND6e0EEpcsDsN5D5Q)
