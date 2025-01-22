@@ -32,3 +32,18 @@ export const getGcd = (firstNumber, secondNumber) => {
 
   return a + b;
 };
+
+/**
+ * Checks whether the incoming number is prime
+ * @param number {number}
+ * @returns {boolean}
+ */
+export const isPrime = (number) => {
+  for (let i = 2, s = Math.sqrt(number); i <= s; i += 1) {
+    if (number % i === 0) {
+      return false;
+    }
+  }
+
+  return number > 1;
+};
